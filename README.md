@@ -1,5 +1,5 @@
 # Alura Tracker
-Projeto de monitoramento de tasks feito pelo curso de [Vue3: explorando o framework](https://cursos.alura.com.br/course/vue3-comecando-framework) da Alura.
+Projeto de monitoramento de tasks feito pelo curso de [Vue3: avançando no framework](https://cursos.alura.com.br/course/vue3-avancando-framework) da Alura.
 
 
 ## Project Setup
